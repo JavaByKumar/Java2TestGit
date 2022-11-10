@@ -4,6 +4,6 @@ class Addition{
         x=10;
         y=20;
         z=x+y;
-        System.out.println(z);
+        System.out.println("Sum is:"+z);
     }
 }
